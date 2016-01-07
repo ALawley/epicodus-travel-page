@@ -6,3 +6,20 @@
   font-size: 1.2em;
   background-color: #E2EFFB;
 }
+
+img {
+  width: 960;
+  height: 642;
+}
+
+.carousel-indicators {
+  bottom: 0;
+}
+
+.carousel-indicators .active {
+  background-color: #222;
+}
+
+.carousel-indicators li {
+  border-color: #222;
+}
