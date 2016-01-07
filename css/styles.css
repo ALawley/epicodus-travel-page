@@ -23,3 +23,8 @@ img {
 .carousel-indicators li {
   border-color: #337ab7;
 }
+
+footer {
+  margin-top: 2em;
+  font-style: italic;
+}
